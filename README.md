@@ -8,23 +8,24 @@ The tool has been tested with the [LEMD airport (Madrid)](https://forums.x-plane
 
 It is worth mentioning that it only works for downloaded airports, not for the default ones.
 
-Before the fix:
-![before the fix](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/before.png "Before the fix")
+* Before the fix:
 
-After the fix:
-![after the fix](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/after.png "After the fix")
+  ![before the fix](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/before.png "Before the fix")
+* After the fix:
+
+  ![after the fix](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/after.png "After the fix")
 
 ## Instructions
 
 Using the tool is very simple, you only need to have a [Java VM](http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html) 9+ installed on your computer and download the executable jar from [here](https://github.com/AndresCalimero/wt3-gates-fixer/releases/latest)
 
-I made a very simple UI, first you need to set the X-Plane 11 installation directory:
-![UI1](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/ui1.png "X-Plane 11 installation directory")
+* I made a very simple UI, first you need to set the X-Plane 11 installation directory:
 
-Then you need to click "Load" to search for all the installed airports:
-![UI2](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/ui2.png "Search for all the installed airports")
+  ![UI1](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/ui1.png "X-Plane 11 installation directory")
+* Then you need to click "Load" to search for all the installed airports:
 
-Finally you must click "Fix gates" and wait, it should only take a few seconds.
+  ![UI2](https://raw.githubusercontent.com/AndresCalimero/wt3-gates-fixer/master/images/ui2.png "Search for all the installed airports")
+* Finally you must click "Fix gates" and wait, it should only take a few seconds.
 
 You can also build it with Gradle.
 
